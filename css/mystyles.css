@@ -1,0 +1,16 @@
+.body{
+    background-color:bisque;
+
+}
+.tableustyles{
+    display:block;
+    margin:auto;
+}
+.imagestyle{
+    width=50%
+}
+.header{
+    display:block;
+    margin:auto;
+    font-size:large;
+}
